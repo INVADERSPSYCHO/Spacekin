@@ -10,7 +10,7 @@ from mcstatus import JavaServer
 # ────────────────────────────────────────────
 TOKEN       = os.getenv("TOKEN")
 SERVER_NAME = "HYPERMC"
-SERVER_IP   = "hypermc.run.place"          # apna IP daal
+SERVER_IP   = "play.hypermc.lol"          # apna IP daal
 CHANNEL_ID  = 1556704884248674314
 ROLE_ID     = 1486650779824689264
 REFRESH_SEC = 15
